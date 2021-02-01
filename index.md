@@ -7,5 +7,7 @@ Your browser may indicate that *<font color="red">this URL is at risk</font>*, b
 ### HERA ARE SOME TIPS
 
 ```markdown
-You need two keys.
+1."View in Github"
+2.You need two keys.
+3.The second key belongs to boring people.
 ```
